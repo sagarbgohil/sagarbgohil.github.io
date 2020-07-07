@@ -1,6 +1,44 @@
-body {
-    font-family: sans-serif;
-    width: 50%;
-    margin: auto;
-    background-color: red;
-  }
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  float: left;
+  font-size: 30px;
+  margin: 10px;
+}
+
+#head2{
+  float: right;
+  font-size: 25px;
+  margin: 15px 10px 10px;
+} 
+
+.clearfix::afters{
+  content: "";
+  clear: both;
+  display: inline;
+}
+
+.nav{
+  position: sticky;
+  top: 0;
+  background-color: yellow;
+}
+
+ul{
+  height: 20px;
+  list-style-type: none;
+  margin-top: 10px;
+}
+
+li{
+  text-align: center;
+  display: inline;
+}
+
+a{
+  color: black;
+  background-color: red;
+  padding: 10px;
+}
