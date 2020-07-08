@@ -4,4 +4,4 @@
 
 **Here! `Sagar`**
 
-[Goto Website](https://www.sagargohil362.github.com/) :+1:
+[Goto Website](https://www.sagargohil362.github.io/) :+1:
