@@ -8,4 +8,7 @@
 
 ```javascrip
 let a = 10;
+if (isAwesome){
+  return true
+}
 ```
