@@ -16,4 +16,4 @@ if (isAwesome){
 @Sagar
 
 - [x] Male
-- [] Female
+- [ ] Female
