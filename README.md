@@ -6,7 +6,7 @@
 
 [Goto Website](https://sagargohil362.github.io/) :+1:
 
-```javascrip
+```javascript
 let a = 10;
 if (isAwesome){
   return true
