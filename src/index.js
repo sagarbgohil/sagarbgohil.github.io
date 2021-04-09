@@ -1,7 +1,14 @@
+function openNav() {
+  document.getElementById("mySidenav").style.width = "100%";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
 
 document.addEventListener('DOMContentLoaded', function(){
-  document.querySelector('#photo').style.width = "100%";
-  document.querySelector('#photo').style.height = "100%";
+  
+
 });
 
 // (function() {
