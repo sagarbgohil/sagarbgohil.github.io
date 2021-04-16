@@ -29,7 +29,7 @@
     padding: 8px;
     background: linear-gradient(130deg, #74b9ff, #e66767);
     margin: auto;
-    border-radius: 30% 10%;
+    border-radius: 30% 0% 30% 10%;
     background-size: 200% 200%;
     animation: animated-gradient 2s linear infinite;
 }
@@ -53,7 +53,8 @@
     display: block;
     width: 200px;
     height: 200px;
-    border-radius: 30% 10%;
+    background-color: lavenderblush;
+    border-radius: 30% 0% 30% 10%;
 }
   
 .name{
